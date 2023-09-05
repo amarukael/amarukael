@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm M. Fahmi Amaruddin</h1>
-- 🏫 I’m currently working on [Bloodbags App](https://github.com/amarukael/BloodBags)
 
 - 👨‍💻 All of my projects are available at [https://fahmiamaru.my.id/](https://fahmiamaru.my.id/)
 
